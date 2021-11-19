@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/A-Star-Search-Algorithm/static/css/main.06dd7302.chunk.css",
+    "main.js": "/A-Star-Search-Algorithm/static/js/main.072db42b.chunk.js",
+    "main.js.map": "/A-Star-Search-Algorithm/static/js/main.072db42b.chunk.js.map",
+    "runtime-main.js": "/A-Star-Search-Algorithm/static/js/runtime-main.adba6083.js",
+    "runtime-main.js.map": "/A-Star-Search-Algorithm/static/js/runtime-main.adba6083.js.map",
+    "static/js/2.4bd3e97f.chunk.js": "/A-Star-Search-Algorithm/static/js/2.4bd3e97f.chunk.js",
+    "static/js/2.4bd3e97f.chunk.js.map": "/A-Star-Search-Algorithm/static/js/2.4bd3e97f.chunk.js.map",
+    "index.html": "/A-Star-Search-Algorithm/index.html",
+    "static/css/main.06dd7302.chunk.css.map": "/A-Star-Search-Algorithm/static/css/main.06dd7302.chunk.css.map",
+    "static/js/2.4bd3e97f.chunk.js.LICENSE.txt": "/A-Star-Search-Algorithm/static/js/2.4bd3e97f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adba6083.js",
+    "static/js/2.4bd3e97f.chunk.js",
+    "static/css/main.06dd7302.chunk.css",
+    "static/js/main.072db42b.chunk.js"
+  ]
+}
